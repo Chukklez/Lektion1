@@ -19,7 +19,7 @@ async function login(user, pass) {
    
     console.log('Login:', data);
 
-    return await data:
+    return await data;
 }
 
 
